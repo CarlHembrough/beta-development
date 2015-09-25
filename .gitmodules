@@ -1,0 +1,24 @@
+[submodule "florence"]
+	path = florence
+	url = https://github.com/ONSdigital/florence.git
+	branch = develop
+[submodule "zebedee"]
+	path = zebedee
+	url = https://github.com/Carboni/zebedee.git
+	branch = develop
+[submodule "The-Train"]
+	path = The-Train
+	url = https://github.com/Carboni/The-Train.git
+	branch = develop
+[submodule "babbage"]
+	path = babbage
+	url = https://github.com/ONSdigital/babbage.git
+	branch = develop
+[submodule "project-brian"]
+	path = project-brian
+	url = https://github.com/thomasridd/project-brian.git
+	branch = develop
+[submodule "sixteens"]
+	path = sixteens
+	url = https://github.com/ONSdigital/sixteens.git
+	branch = master 
