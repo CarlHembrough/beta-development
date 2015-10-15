@@ -1,0 +1,8 @@
+zebedee:
+  build: ./zebedee/
+  dockerfile: Dockerfile-dev
+  ports:
+    - "8082:8082"
+  volumes:
+    - . /app
+    - ~/.m2 /root/.m2
